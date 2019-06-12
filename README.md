@@ -4,4 +4,5 @@ This code is a Matlab implementation for the model suggested in "Semantically-ba
 
 JUDD 
 
-![SIFTSE_Results](https://raw.githubusercontent.com/rotemmairon/SIFTSE/SIFTSE_Results.png)
+![SIFTSE_Results](https://github.com/rotemmairon/SIFTSE/blob/master/SIFTSE_Results.png)
+
