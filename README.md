@@ -1,4 +1,6 @@
 # SIFTSE
 
-This is a Matlab implementation of the model for human scanpath estimation suggested in the following paper: 
-Liu, Huiying, Dong Xu, Qingming Huang, Wen Li, Min Xu, and Stephen Lin. "Semantically-based human scanpath estimation with hmms." In Proceedings of the IEEE International Conference on Computer Vision, pp. 3232-3239. 2013.
+This code is a Matlab implementation for the model suggested in "Semantically-based human scanpath estimation with hmms" (Liu, Huiying, Dong Xu, Qingming Huang, Wen Li, Min Xu, and Stephen Lin, In ICCV 2013). The code has been tested on the datasets JUDD and NUSEF, using the Smith-Waterman sequence alignment algorithm with the following results:
+
+JUDD 
+
