@@ -6,5 +6,5 @@ JUDD
 
 
 <p align="center">
-  <img src="./blob/master/SIFTSE_Results.png" width="350" title="SIFTSE Results">
+  <img src="https://github.com/rotemmairon/SIFTSE/blob/master/SIFTSE_Results.png" width="350" title="SIFTSE Results">
 </p>
